@@ -20,7 +20,7 @@ body{
     left: 100px;
 }
 
-.left-eye, .right-eye{
+.left-eye,.right-eye{
     width: 60px;
     height: 60px;
     border-radius: 50%;
