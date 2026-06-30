@@ -1,0 +1,27 @@
+#container{
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content:space-evenly;
+    border: solid black;
+    justify-content:space-around ;
+    margin-left: 500px;
+    margin-top: 5px;
+   
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: solid black;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+    font-weight: bolder;
+    background-color: grey;
+    border-radius: 10%;
+    margin-top: 6px;
+}
